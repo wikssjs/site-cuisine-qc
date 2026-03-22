@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /devis-cuisine/
+
+Sitemap: https://prix-cuisine.ca/sitemap-index.xml
